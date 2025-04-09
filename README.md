@@ -1,16 +1,16 @@
-# Araç Fiyat Tahmin Projesi
+# Vehicle Price Prediction Project
 
-Bu proje, makine öğrenmesi tekniklerini kullanarak araç fiyatlarını tahmin etmeyi amaçlamaktadır. Python programlama dili ve çeşitli veri bilimi kütüphaneleri kullanılarak geliştirilmiştir.
+This project aims to predict vehicle prices using machine learning techniques. It is developed using the Python programming language and various data science libraries.
 
-## İçerik
+## Content
 
-- **Veri Toplama:** Araç fiyatlarına yönelik veri setlerinin hazırlanması
-- **Veri Ön İşleme:** Eksik verilerin doldurulması, aykırı değerlerin temizlenmesi
-- **Özellik Mühendisliği:** Model için en uygun değişkenlerin seçilmesi
-- **Model Eğitimi:** Makine öğrenmesi algoritmalarının kullanılması
-- **Model Değerlendirme:** Model başarısının ölçülmesi
+- **Data Collection:** Preparing datasets related to vehicle prices.
+- **Data Preprocessing:** Handling missing data and cleaning outliers.
+- **Feature Engineering:** Selecting the most suitable variables for the model.
+- **Model Training:** Using machine learning algorithms.
+- **Model Evaluation:** Measuring the performance of the model.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 - Python
 - Pandas
@@ -18,12 +18,8 @@ Bu proje, makine öğrenmesi tekniklerini kullanarak araç fiyatlarını tahmin 
 - *Scikit-learn*
 - *Matplotlib & Seaborn*
 
-## *Kullanım*
+## *Usage*
 
-- *Veriyi yükleyin ve inceleyin.*
-- *Modeli eğitin ve test edin.*
-- *Tahmin sonuçlarını değerlendirin.*
-
-## *Katkıda Bulunma*
-
-*Bu projeye katkıda bulunmak isterseniz, pull request açabilir veya yeni öneriler sunabilirsiniz.*
+- *Load and explore the data.*
+- *Train and test the model.*
+- *Evaluate the prediction results.*
